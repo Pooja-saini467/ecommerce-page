@@ -18,10 +18,10 @@
 
 ## screenshot
 <img src="https://github.com/Pooja-saini467/ecommerce-page/blob/main/design/desktop-design.jpg?raw=true">
+
 ## Demo
 
-
-https://user-images.githubusercontent.com/90523453/155202830-c24a817a-af53-421d-95e0-b461b431b176.mp4
+- https://user-images.githubusercontent.com/90523453/155202830-c24a817a-af53-421d-95e0-b461b431b176.mp4
 
 
 ## Live Link
