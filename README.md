@@ -1,6 +1,5 @@
 # Frontend Mentor - E-commerce product page
 
-![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -19,9 +18,16 @@
 
 ## screenshot
 <img src="https://github.com/Pooja-saini467/ecommerce-page/blob/main/design/desktop-design.jpg?raw=true">
+## Demo
 
-## Video Link
-https://drive.google.com/file/d/16Cqfm5oSLlzGAQ6zVI4F1LOpcdGO4fza/view?usp=sharing
+
+https://user-images.githubusercontent.com/90523453/155202830-c24a817a-af53-421d-95e0-b461b431b176.mp4
+
+
+## Live Link
+- Live Url
+- Pooja-saini467(https://pooja-saini467.github.io/ecommerce-page/)
+
 
 ## My Process
 ## Build With
@@ -32,7 +38,5 @@ https://drive.google.com/file/d/16Cqfm5oSLlzGAQ6zVI4F1LOpcdGO4fza/view?usp=shari
 ## Author
 - Website Url
 - pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-frontendmentor-html5-activity-6899624595788222464-5xI2)
-- Live Url
-- Pooja-saini467(https://pooja-saini467.github.io/ecommerce-page/)
 - Twitter url
 - @Pooja96490259(https://twitter.com/home)
