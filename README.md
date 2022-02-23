@@ -25,7 +25,6 @@
 
 
 ## Live Link
-- Live Url
 - Pooja-saini467(https://pooja-saini467.github.io/ecommerce-page/)
 
 
